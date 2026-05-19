@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/bash
 # =============================================================================
 # RNA-Seq Pipeline — TFM MUBBC (UAM)
 # Author : Ismael de la Iglesia San Sebastián
